@@ -3,3 +3,4 @@
 I am an UI Developer.
 I have experience in working with JavaScript and also frameworks like angular and react
 
+i also have experience with ES6
